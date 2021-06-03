@@ -1,16 +1,27 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import dir_func
+'''
+ Это скрипт из РОССИИ и ХУЙ тут будут на ебаном буржуйском коменты.
+ Более того, я как автор данного поделья КЛАЛ хуи на всех недоумков,
+которые будут копировать данную поеботу. Мамкины программЫсты я ваш
+рот ЕБ. Мне похуй на безопасность и все сообщесто быдлокодеров и
+кодеров питона в особенности. Я ебал и вертел на хуй ВСЕ ваши
+языки стандарты и само ИТ в рот ЕБ. Срал и ебал всех ИТшников.
+ИТшники - вы все говноеды и ебаные пиздюки, ссал вам всем в рты.
+'''
 
 
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    """
+    здесь надо насрать что-то умное, но мне поебать
+    я и так пиздат и под вискарем ебал все в рот!!!
+    :param name: поебень какая-то
+    :return: хуйня
+    """
+    print(f'"Эт интернеты ептать, {name}')
 
 
-# Press the green button in the gutter to run the script.
+# Ебись все колом, поселось говно по трубам
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
+    print_hi('ИДИ НА ХУЙ!')
+    dir_func.set_dir_struct('http://img.bdsmbook.com/galers/jeanssittin/075/index.html')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
